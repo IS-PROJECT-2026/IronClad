@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>About Me — [Jason Kiragu]</title>
+  <title>About Me — Jason Kiragu</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&family=Space+Mono:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
@@ -500,12 +500,12 @@
     </div>
 
     <div class="cover-text">
-      <p class="cover-artist">[Your Full Name]</p>
+      <p class="cover-artist">Jason Kiragu</p>
       <h1 class="cover-title">About<br><em>Me.</em></h1>
       <div class="cover-genre-row">
         <span class="genre-tag">Software</span>
-        <span class="genre-tag">[Your Role]</span>
-        <span class="cover-year">© 2025</span>
+        <span class="genre-tag">Computer Science Student</span>
+        <span class="cover-year">© 2026</span>
       </div>
     </div>
   </div>
@@ -530,7 +530,7 @@
       <p class="note-kicker">Side A — Track 1</p>
       <h2 class="note-heading">My Coding Mission</h2>
       <p class="note-prompt">What kind of real-world problems do you want to solve using technology? Write 2–3 sentences.</p>
-      <p class="note-body">[Write your answer here]</p>
+      <p class="note-body">I want to use technology to solve real-world problems by creating applications that make everyday tasks easier and more efficient. I'm especially interested in building software that helps people stay organized, learn new skills, and improve access to useful information.</p>
     </div>
 
     <!-- TECH STACK — credits block -->
@@ -545,23 +545,23 @@
         -->
         <div class="credits-row">
           <span class="credits-key">Produced by</span>
-          <span class="credits-val placeholder">e.g. Python</span>
+          <span class="credits-val placeholder">Python</span>
         </div>
         <div class="credits-row">
           <span class="credits-key">Mixed in</span>
-          <span class="credits-val placeholder">e.g. JavaScript</span>
+          <span class="credits-val placeholder">JavaScript</span>
         </div>
         <div class="credits-row">
           <span class="credits-key">Engineered on</span>
-          <span class="credits-val placeholder">e.g. HTML &amp; CSS</span>
+          <span class="credits-val placeholder">HTML &amp; CSS</span>
         </div>
         <div class="credits-row">
           <span class="credits-key">Next session</span>
-          <span class="credits-val placeholder">e.g. React — coming soon</span>
+          <span class="credits-val placeholder">React — coming soon</span>
         </div>
         <div class="credits-row">
           <span class="credits-key">Learning</span>
-          <span class="credits-val placeholder">e.g. Docker — in progress</span>
+          <span class="credits-val placeholder">Docker — in progress</span>
         </div>
       </div>
     </div>
@@ -571,7 +571,7 @@
       <p class="note-kicker">Side A — Track 3</p>
       <h2 class="note-heading">My Passions</h2>
       <p class="note-prompt">What do you love doing when you are not looking at a computer screen?</p>
-      <p class="note-body">[e.g., playing football, baking, photography, reading]</p>
+      <p class="note-body">playing football, baking, photography and reading</p>
     </div>
 
     <!-- SKILLS — tracklist -->
@@ -582,17 +582,17 @@
       <div class="tracklist">
         <div class="track">
           <span class="track-num">1.</span>
-          <span class="track-title">[Skill 1 — e.g., Breaking complex problems into smaller steps]</span>
+          <span class="track-title">Skill 1 — Breaking complex problems into smaller steps</span>
           <span class="track-dur">★★★</span>
         </div>
         <div class="track">
           <span class="track-num">2.</span>
-          <span class="track-title">[Skill 2 — e.g., Collaborating under pressure in a team]</span>
+          <span class="track-title">Skill 2 — Collaborating under pressure in a team</span>
           <span class="track-dur">★★★</span>
         </div>
         <div class="track">
           <span class="track-num">3.</span>
-          <span class="track-title">[Skill 3 — e.g., Communicating technical ideas clearly]</span>
+          <span class="track-title">Skill 3 — Communicating technical ideas clearly</span>
           <span class="track-dur">★★★</span>
         </div>
       </div>
@@ -603,7 +603,7 @@
       <p class="note-kicker">Side B — Track 2</p>
       <h2 class="note-heading">Energy &amp; Engagement</h2>
       <p class="note-prompt">Which classes or projects brought you the most energy, and why?</p>
-      <p class="note-body">[Write your answer here]</p>
+      <p class="note-body">I enjoyed the web development and programming projects the most because they allowed me to build real, interactive applications from scratch. Seeing my code come to life in a browser and solving problems through coding made the learning process both challenging and rewarding.</p>
     </div>
 
     <!-- LOOKING BACK -->
@@ -611,7 +611,7 @@
       <p class="note-kicker">Side B — Track 3</p>
       <h2 class="note-heading">Looking Back</h2>
       <p class="note-prompt">If you were to give advice to your first-year self, what would it be?</p>
-      <p class="note-body">[Write your answer here]</p>
+      <p class="note-body">Don't be afraid to make mistakes—they're an important part of learning. Stay consistent, ask for help when you need it, and keep building projects because hands-on practice will teach you more than just reading or watching tutorials.</p>
     </div>
 
     <!-- CIRCLE OF INFLUENCE -->
@@ -619,13 +619,13 @@
       <p class="note-kicker">Hidden Track</p>
       <h2 class="note-heading">Circle of Influence</h2>
       <p class="note-prompt">Who are the mentors, peers, or lecturers who have poured into you?</p>
-      <p class="note-body">[Write your answer here]</p>
+      <p class="note-body">I am grateful for the guidance and support of my mentors, peers, and lecturers who have shared their knowledge, provided feedback, and encouraged me throughout my learning journey.</p>
     </div>
 
     <footer class="liner-footer">
       <div class="liner-footer-copy">
         ICS 4 Capstone · Strathmore University<br>
-        Nairobi, Kenya · 2025
+        Nairobi, Kenya · 2026
       </div>
       <a href="index.html" class="liner-footer-back">← Back to company page</a>
     </footer>
